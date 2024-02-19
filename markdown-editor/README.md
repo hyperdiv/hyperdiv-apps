@@ -8,4 +8,4 @@ Usage:
 python start.py <path_to_markdown_file>
 ```
 
-![markdown-editor](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/36b3a5a8-5656-4aca-847c-132cc3a1e8dd)
+![markdown-editor](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/4e384b3e-b1cb-4493-9b2f-db562604052b)
