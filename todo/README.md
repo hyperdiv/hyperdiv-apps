@@ -4,4 +4,4 @@ A Todo App in the spirit of [TodoMVC](https://todomvc.com/).
 
 Supports adding, removing, editing, and filtering tasks.
 
-![todo](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/9eba0e50-4098-4590-9f05-74cd5193d5c7)
+![todo](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/230a5101-da59-4830-b2c6-5e707177d75e)
