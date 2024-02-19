@@ -2,4 +2,4 @@
 
 A very tiny Todo App. It supports adding and toggling tasks.
 
-![simple-todo](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/6e587717-065f-412f-9bc5-f1859f55a43c)
+![simple-todo](https://github.com/hyperdiv/hyperdiv-apps/assets/5980501/06c2ede0-5280-4648-b028-fbf544f8dbab)
