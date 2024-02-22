@@ -1,3 +1,4 @@
+import hyperdiv as hd
 import time
 import subprocess
 from .state import PingState
@@ -23,7 +24,8 @@ def ping_task():
         for host in ping_values:
             try:
                 ping_value = ping(host)
-            except Exception:
+            except Exception as e:
+                hd.logger.warn(f"Ping Failed for {host}: {e}")
                 ping_value = None
             ping_values[host] = ping_values[host][-20:] + ((now, ping_value),)
 
