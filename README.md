@@ -2,6 +2,7 @@
 
 This is a collection of small Hyperdiv apps to demonstrate how such apps can be built with Hyperdiv.
 
+* `calculator`: A simple calculator app.
 * `gpt-chatbot`: A chat interface to GPT-3.5/GPT-4 using the Python wrapper to OpenAI's API.
 * `image-editor`: A simple image editor that explores image parameters in realtime using sliders.
 * `login`: An app showing how to implement an app protected by a login screen.
