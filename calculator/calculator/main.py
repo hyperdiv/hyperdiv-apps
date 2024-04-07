@@ -98,7 +98,7 @@ def main():
                     state.expr = process_numeric_input(state.expr, "8")
                 if button("9").clicked:
                     state.expr = process_numeric_input(state.expr, "9")
-                if button("*", "warning").clicked:
+                if button("*", "yellow").clicked:
                     state.expr = process_operator(state.expr, "*")
             with hd.hbox(gap=1):
                 if button("4").clicked:
@@ -107,7 +107,7 @@ def main():
                     state.expr = process_numeric_input(state.expr, "5")
                 if button("6").clicked:
                     state.expr = process_numeric_input(state.expr, "6")
-                if button("-", "warning").clicked:
+                if button("-", "yellow").clicked:
                     state.expr = process_operator(state.expr, "-")
             with hd.hbox(gap=1):
                 if button("1").clicked:
