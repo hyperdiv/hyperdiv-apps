@@ -17,17 +17,17 @@ class Node:
     """
     A binary expression.
 
-    7 + 8 is represented as Node("+", left=Constant("7"), right=Constant("8"))
+    7 + 8 is represented as Node("+", left=Const("7"), right=Const("8"))
 
     7 + 8 * 5 is represented as:
 
     Node(
         "+",
-        left=Constant("7"),
+        left=Const("7"),
         right=Node(
             "*",
-            left=Constant("8"),
-            right=Constant("5")
+            left=Const("8"),
+            right=Const("5")
         )
     )
     """
